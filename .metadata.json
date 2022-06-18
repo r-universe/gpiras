@@ -1,0 +1,10 @@
+[
+  {
+    "package": "sphet",
+    "oncran": true
+  },
+  {
+    "package": "spldv",
+    "oncran": true
+  }
+]
