@@ -1,5 +1,9 @@
 [
   {
+    "package": "hspm",
+    "oncran": true
+  },
+  {
     "package": "sphet",
     "oncran": true
   },
